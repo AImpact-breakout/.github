@@ -19,10 +19,9 @@ Our tools are built for:
 ## 📁 Repositories
 
 This GitHub org includes:
-[AImpact Frontend](https://github.com/AImpact-breakout/aimpact-frontend) – Frontend of AI chat and user's created projects
-[AImpact Backend](https://github.com/AImpact-breakout/aimpact-backend) — All infrastracture and server logic for AImpact
-[Default project template](https://github.com/AImpact-breakout/vite-react-tailwindcss-shadcn-dynamic) — Template that used by default for user's created projects
-
+- [AImpact Frontend](https://github.com/AImpact-breakout/aimpact-frontend) – Frontend of AI chat and user's created projects
+- [AImpact Backend](https://github.com/AImpact-breakout/aimpact-backend) — All infrastracture and server logic for AImpact
+- [Default project template](https://github.com/AImpact-breakout/vite-react-tailwindcss-shadcn-dynamic) — Template that used by default for user's created projects
 - Contracts:
   - [Storage Contract](https://github.com/AImpact-breakout/storage-program) — Contract will be in role of database for user's projects on Solana Blockchain.
   - ...Coming Soon...
